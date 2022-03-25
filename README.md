@@ -5,7 +5,7 @@ Use this to change your windows 10 default font to Verdana Bold
 
 ## FOLLOW THESE STEPS TO CHANGE YOUR FONT TO VERDANA BOLD:
 
-1. Right click [HERE](link) and click Download.
+1. Right click [HERE](https://raw.githubusercontent.com/thehandsomezebra/windows_font_changer/master/new_font.bat) and click Download.
 2. Save it to your computer.
 3. Navigate to wherever you saved it.
 4. RIGHT CLICK it and click RUN AS ADMINISTRATOR.
@@ -18,7 +18,7 @@ Use this to change your windows 10 default font to Verdana Bold
 
 ## FOLLOW THESE STEPS TO RESTORE TO THE ORIGINAL FONT:
 
-1. Right click [HERE](link) and click Download.
+1. Right click [HERE](https://raw.githubusercontent.com/thehandsomezebra/windows_font_changer/master/revert_font.bat) and click Download.
 2. Save it to your computer.
 3. Navigate to wherever you saved it.
 4. RIGHT CLICK it and click RUN AS ADMINISTRATOR.
