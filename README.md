@@ -5,10 +5,10 @@ Use this to change your windows 10 default font to Verdana Bold
 
 ## FOLLOW THESE STEPS TO CHANGE YOUR FONT TO VERDANA BOLD:
 
-1. Right click [HERE](https://raw.githubusercontent.com/thehandsomezebra/windows_font_changer/master/new_font.bat) and click `Save Link As..`.
-2. Save it to your computer.
+1. Right click [HERE](https://raw.githubusercontent.com/thehandsomezebra/windows_font_changer/master/new_font.bat) and click `Save Link As...`.
+2. Save it to your computer. Make sure it is saved as a `.bat` file extension.
 3. Navigate to wherever you saved it.
-4. RIGHT CLICK it and click RUN AS ADMINISTRATOR.
+4. RIGHT CLICK it and click RUN AS ADMINISTRATOR.  ![https://github.com/thehandsomezebra/windows_font_changer/raw/master/runasadmin.png](https://github.com/thehandsomezebra/windows_font_changer/raw/master/runasadmin.png)
 5. A black box will pop up and it's going to start running.
 6. You'll get a couple of prompts, say yes to them.
 7. Restart your computer.
@@ -18,10 +18,10 @@ Use this to change your windows 10 default font to Verdana Bold
 
 ## FOLLOW THESE STEPS TO RESTORE TO THE ORIGINAL FONT:
 
-1. Right click [HERE](https://raw.githubusercontent.com/thehandsomezebra/windows_font_changer/master/revert_font.bat) and click `Save Link As..`.
-2. Save it to your computer.
+1. Right click [HERE](https://raw.githubusercontent.com/thehandsomezebra/windows_font_changer/master/revert_font.bat) and click `Save Link As...`.
+2. Save it to your computer. Make sure it is saved as a `.bat` file extension.
 3. Navigate to wherever you saved it.
-4. RIGHT CLICK it and click RUN AS ADMINISTRATOR.
+4. RIGHT CLICK it and click RUN AS ADMINISTRATOR.  ![https://github.com/thehandsomezebra/windows_font_changer/raw/master/runasadmin.png](https://github.com/thehandsomezebra/windows_font_changer/raw/master/runasadmin.png)
 5. A black box will pop up and it's going to start running.
 6. You'll get a couple of prompts, say yes to them.
 7. The changes might take effect immediately.. but you should still restart your computer.
