@@ -14,7 +14,16 @@ Use this to change your windows 10 default font to Verdana Bold
 7. Restart your computer.
 8. Enjoy your new bold font.
 
-
+---
+.
+.
+.
+.
+.
+.
+.
+.
+---
 
 ## FOLLOW THESE STEPS TO RESTORE TO THE ORIGINAL FONT:
 
